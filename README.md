@@ -17,9 +17,9 @@ Now a Data Engineer & AI Consultant at Simeon Global Consulting, building data p
 
 | project | what it does | |
 |---|---|---|
-| [**florida-disaster-warehouse**](https://github.com/GOPIVARDHAN1965/florida-disaster-warehouse) | 25 years of FEMA, NOAA and Census data in a tested DuckDB + dbt warehouse. Weekly incremental loads, 51 tests, and a model that predicts which counties get federal aid (ROC AUC 0.923 on 2020+ storms vs 0.725 baseline). | [live ↗](https://gopivardhan1965.github.io/florida-disaster-warehouse/) |
-| [**florida-jobs-pipeline**](https://github.com/GOPIVARDHAN1965/florida-jobs-pipeline) | Scrapes every open State of Florida job posting daily, parses a dozen salary formats, publishes a dashboard. | [live ↗](https://gopivardhan1965.github.io/florida-jobs-pipeline/) |
-| [**grind**](https://github.com/GOPIVARDHAN1965/grind) | Gym-tracking PWA — workouts, habits, calories, progress. Next.js 14 + Supabase. | [live ↗](https://grind-henna.vercel.app) |
+| [**florida-disaster-warehouse**](https://github.com/GOPIVARDHAN1965/florida-disaster-warehouse) | 25 years of FEMA, NOAA and Census data in a tested DuckDB + dbt warehouse. Weekly incremental loads, 51 tests, and a model that predicts which counties get federal aid (ROC AUC 0.923 on 2020+ storms vs 0.725 baseline). | [live&nbsp;↗](https://gopivardhan1965.github.io/florida-disaster-warehouse/) |
+| [**florida-jobs-pipeline**](https://github.com/GOPIVARDHAN1965/florida-jobs-pipeline) | Scrapes every open State of Florida job posting daily, parses a dozen salary formats, publishes a dashboard. | [live&nbsp;↗](https://gopivardhan1965.github.io/florida-jobs-pipeline/) |
+| [**grind**](https://github.com/GOPIVARDHAN1965/grind) | Gym-tracking PWA — workouts, habits, calories, progress. Next.js 14 + Supabase. | [live&nbsp;↗](https://grind-henna.vercel.app) |
 | [**rag_ollama_project**](https://github.com/GOPIVARDHAN1965/rag_ollama_project) | Local RAG over PDFs — Ollama + FAISS embeddings behind a Flask API. No cloud. | |
 
 ### `$ ls ~/work/internal`
