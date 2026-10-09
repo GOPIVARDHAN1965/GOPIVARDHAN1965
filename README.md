@@ -1,47 +1,37 @@
-<div align="center">
+<img src="./terminal.svg" alt="$ whoami — GopiVardhan Gunta, Data Engineer & AI Consultant, Tallahassee FL" width="100%">
 
-# Gopi Vardhan
+<p align="center">
+  <a href="https://gopivardhan1965.github.io/Portfoli0/"><code>portfolio</code></a> ·
+  <a href="https://www.linkedin.com/in/gopivardhan"><code>linkedin</code></a> ·
+  <a href="mailto:guntagopivardhan@gmail.com"><code>email</code></a> ·
+  <a href="https://gopivardhan1965.github.io/Portfoli0/resume.pdf"><code>résumé.pdf</code></a>
+</p>
 
-**Data Analyst · Finance & Operations · Building toward Data Engineering**
-
-[Portfolio](https://gopivardhan1965.github.io/Portfoli0/) · [LinkedIn](https://www.linkedin.com/in/gopi-vardhan-gunta-6332b418a/) · [Email](mailto:guntagopivardhan@gmail.com)
-
-</div>
-
----
+### `$ cat about.txt`
 
 Started in finance — invoices, compliance, cost estimates. Moved into data. Ended up spending more time fixing the pipelines than reading the reports they produced.
 
-Now at the Florida Division of Emergency Management, automating grant tracking workflows that used to be done manually. Python, Selenium, Excel — whatever gets the job done reliably.
+Now a Data Engineer & AI Consultant at Simeon Global Consulting, building data pipelines, forecasting models and AI tools for Florida's emergency management programs.
 
-Moving toward data engineering. Less ad hoc, more architecture.
+### `$ ls ~/building`
 
----
+| project | what it does | |
+|---|---|---|
+| [**florida-disaster-warehouse**](https://github.com/GOPIVARDHAN1965/florida-disaster-warehouse) | 25 years of FEMA, NOAA and Census data in a tested DuckDB + dbt warehouse. Weekly incremental loads, 51 tests, and a model that predicts which counties get federal aid (ROC AUC 0.923 on 2020+ storms vs 0.725 baseline). | [live ↗](https://gopivardhan1965.github.io/florida-disaster-warehouse/) |
+| [**florida-jobs-pipeline**](https://github.com/GOPIVARDHAN1965/florida-jobs-pipeline) | Scrapes every open State of Florida job posting daily, parses a dozen salary formats, publishes a dashboard. | [live ↗](https://gopivardhan1965.github.io/florida-jobs-pipeline/) |
+| [**grind**](https://github.com/GOPIVARDHAN1965/grind) | Gym-tracking PWA — workouts, habits, calories, progress. Next.js 14 + Supabase. | [live ↗](https://grind-henna.vercel.app) |
+| [**rag_ollama_project**](https://github.com/GOPIVARDHAN1965/rag_ollama_project) | Local RAG over PDFs — Ollama + FAISS embeddings behind a Flask API. No cloud. | |
 
-**Working with**
+### `$ ls ~/work/internal`
 
-![Python](https://img.shields.io/badge/Python-0969da?style=flat-square&logoColor=white&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-0969da?style=flat-square&logoColor=white&logo=pandas)
-![SQL](https://img.shields.io/badge/SQL-0969da?style=flat-square&logoColor=white&logo=postgresql)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black&logo=powerbi)
-![Selenium](https://img.shields.io/badge/Selenium-1a7f37?style=flat-square&logoColor=white&logo=selenium)
-![Git](https://img.shields.io/badge/Git-cf222e?style=flat-square&logoColor=white&logo=git)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white&logo=amazonaws)
+Client and government work — no repos to show, so here's what it does:
 
-**Building toward**
+- **Grant closeout forecasting** — survival model, C-index 0.923, forecasts corrected by 6–15 years
+- **Payment reconciliation pipeline** — 1,700 / 1,700 payments matched across three systems
+- **State finance data platform** — 500K+ rows/day, built from scratch, zero-touch
+- **SITREP generator** — situation reports drafted by AI (Claude API) from live operational data
+- **Contract routing tracker** — average contract approval time −30%
 
-![dbt](https://img.shields.io/badge/dbt-cf222e?style=flat-square&logoColor=white&logo=dbt)
-![Airflow](https://img.shields.io/badge/Airflow-0969da?style=flat-square&logoColor=white&logo=apache-airflow)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0969da?style=flat-square&logoColor=white&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-0969da?style=flat-square&logoColor=white&logo=docker)
+### `$ cat requirements.txt`
 
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gopivardhan1965&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=0969da&icon_color=0969da" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopivardhan1965&layout=compact&theme=default&hide_border=true&title_color=0969da" height="150"/>
-
-<img src="https://streak-stats.demolab.com?user=gopivardhan1965&theme=default&hide_border=true&fire=0969da&ring=0969da&currStreakLabel=0969da" height="130"/>
-
-</div>
+`python` `sql` `dbt` `duckdb` `azure-data-factory` `azure-blob` `power-bi` `dax` `claude-api` `langchain` `scikit-learn` `next.js` `supabase` `github-actions` `docker`

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="314" viewBox="0 0 860 314" role="img" aria-label="GopiVardhan Gunta — Data Engineer &amp; AI Consultant">
+<style>
+text { font: 17px "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace; fill: #efe9dd; white-space: pre; }
+.p { fill: #39ff88; }
+.name { font-size: 34px; font-weight: 800; letter-spacing: -1px; }
+.out { fill: #cfc8ba; }
+.dim { fill: #6a6358; }
+</style>
+<defs><clipPath id="c0"><rect x="32" y="61" height="25" width="0"><animate attributeName="width" begin="0.40s" dur="0.48s" values="0.0;10.2;20.4;30.6;40.8;51.0;61.2;71.4;81.6" calcMode="discrete" fill="freeze"/></rect></clipPath><clipPath id="c1"><rect x="32" y="139" height="25" width="0"><animate attributeName="width" begin="1.38s" dur="0.84s" values="0.0;10.2;20.4;30.6;40.8;51.0;61.2;71.4;81.6;91.8;102.0;112.2;122.4;132.6;142.8" calcMode="discrete" fill="freeze"/></rect></clipPath><clipPath id="c2"><rect x="32" y="203" height="25" width="0"><animate attributeName="width" begin="2.72s" dur="1.08s" values="0.0;10.2;20.4;30.6;40.8;51.0;61.2;71.4;81.6;91.8;102.0;112.2;122.4;132.6;142.8;153.0;163.2;173.4;183.6" calcMode="discrete" fill="freeze"/></rect></clipPath></defs>
+<rect x="1" y="1" width="858" height="312" rx="12" fill="#070606" stroke="#2a2622"/>
+<circle cx="32" cy="26" r="6" fill="#2a2622"/><circle cx="52" cy="26" r="6" fill="#2a2622"/><circle cx="72" cy="26" r="6" fill="#2a2622"/>
+<text x="828" y="31" text-anchor="end" class="dim" style="font-size:13px">~/gopivardhan_gunta</text>
+<text x="32" y="78" clip-path="url(#c0)"><tspan class="p">$</tspan> whoami</text>
+<text x="32" y="118" class="name" opacity="0">GopiVardhan Gunta<set attributeName="opacity" to="1" begin="1.03s"/></text>
+<text x="32" y="156" clip-path="url(#c1)"><tspan class="p">$</tspan> cat role.txt</text>
+<text x="32" y="182" class="out" opacity="0">Data Engineer &amp; AI Consultant · Tallahassee, FL<set attributeName="opacity" to="1" begin="2.37s"/></text>
+<text x="32" y="220" clip-path="url(#c2)"><tspan class="p">$</tspan> echo $LIGHT_MODE</text>
+<text x="32" y="246" class="dim" opacity="0">undefined (on purpose)<set attributeName="opacity" to="1" begin="3.95s"/></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="4.30s"/><text x="32" y="284" class="p">$</text><rect x="52.4" y="270" width="10.2" height="17" fill="#39ff88"><animate attributeName="opacity" values="1;0;1" dur="1s" begin="4.30s" repeatCount="indefinite" calcMode="discrete"/></rect></g>
+</svg>
